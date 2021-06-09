@@ -78,7 +78,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
  npm install 
 ```
 
-#### _Execute aplicação_
+#### _Execute a aplicação_
 ```bash
  expo start
 ```
