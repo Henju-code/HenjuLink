@@ -63,27 +63,27 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 </br>
 
-### Clone este repositório.
+### _Clone este repositório._
 ```bash
-$ git clone https://github.com/Henju-code/HenjuLink.git
+ git clone https://github.com/Henju-code/HenjuLink.git
 ```
 
-### Vá para a pasta HenjuLink
+### _Vá para a pasta HenjuLink_
 ```bash
-$ cd HenjuLink
+ cd HenjuLink
 ```
 
-### Instale as dependências
-```bash
-$ npm install 
+### _Instale as dependências_
+ ```bash
+ npm install 
 ```
 
-### Execute aplicação
+### _Execute aplicação_
 ```bash
-$ expo start
+ expo start
 ```
 
-#### Para dispositivos fisicos: Leia o Código QR com Expo Client que você baixou no seu dispositivo, não se esqueça de estar na mesma rede Wi-fi.
+#### Para dispositivos fisicos: Leia o Código QR com o Expo Client que você baixou no seu dispositivo, não se esqueça de estar na mesma rede Wi-fi.
 
 </br>
 
