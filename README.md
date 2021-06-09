@@ -30,7 +30,7 @@
   <a href="#memo-Licença">Licença</a>
 </p>
 
-<img src="./.github/assets/henjulink_Screenshots.svg" />
+<img src="./.github/assets/henjulink_screenshots.svg" />
 
 ## :page_facing_up: Descrição
 O HenjuLink é um app para encurtar, salvar e compartilhar seus links favoritos.
