@@ -61,21 +61,31 @@ Este projeto foi desenvolvido com as seguintes tecnologias
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [Expo](https://expo.io/), um emulador ou dispositivo fisico usando o Expo Client para [IOS](https://apps.apple.com/br/app/expo-go/id982107779) ou [Android](https://play.google.com/store/apps/details?id=host.exp.exponent), Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
+</br>
+
+### Clone este repositório.
 ```bash
-# Clone este repositório.
 $ git clone https://github.com/Henju-code/HenjuLink.git
-
-# Vá para a pasta HenjuLink
-$ cd HenjuLink
-
-# Instale as dependências
-$ npm install 
-
-# Execute aplicação
-$ expo start
-
-# Para dispositivos fisicos: Leia o Código QR com Expo Client que você baixou no seu dispositivo, não se esqueça de estar na mesma rede Wi-fi.
 ```
+
+### Vá para a pasta HenjuLink
+```bash
+$ cd HenjuLink
+```
+
+### Instale as dependências
+```bash
+$ npm install 
+```
+
+### Execute aplicação
+```bash
+$ expo start
+```
+
+#### Para dispositivos fisicos: Leia o Código QR com Expo Client que você baixou no seu dispositivo, não se esqueça de estar na mesma rede Wi-fi.
+
+</br>
 
 ## :man: Autor
 
@@ -95,5 +105,5 @@ Feito com ❤️ por Luis Henrique :wave::wave: Entre em contato!🚀
 
 ## :memo: Licença
 
-Copyright © 2020 [Luis Henrique](https://github.com/henju-code).<br />
+Copyright © 2021 [Luis Henrique](https://github.com/henju-code).<br />
 This project is [MIT](./LICENSE) licensed.
